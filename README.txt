@@ -1,4 +1,3 @@
-
 Team Members- 
 CS22MTECH12001    DEBIKA SAMANTA
 CS23MTECH12001    ARJIT GUPTA
@@ -9,7 +8,7 @@ TASK 1: How to create keys and certificates
                                                                         _________________________________________________
                                                                        |                                                 |
                                                                        |  NOTE- Execute these Commands on LOCALMACHINE   |
-                                                                       
+                                                                       |_________________________________________________|
 
 
 TASK 2: How to execute secure_chat_app_localhost.cpp
@@ -93,3 +92,4 @@ TASK 4:
 
 	STEP 5: execute the server on BOB container
  			by Using 	./secure_chat_app -c bob1
+
