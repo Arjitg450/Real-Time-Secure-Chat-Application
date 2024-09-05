@@ -1,0 +1,71 @@
+File structure submitted: 
+Report.pdf
+README.txt
+src
+    secure_chat_app.cpp
+    secure_chat_interceptor.cpp
+    secure_chat_active_interceptor.cpp
+    secure_chat_app_localhost.cpp
+certificates
+    Alice : 
+        alice.crt
+        alice.csr
+        alice.key 
+    Bob : 
+        bob.crt
+        bob.csr
+        bob.key
+    Trudy : 
+    FakeAlice
+        fakealice.crt
+        fakealice.csr
+        fakealice.key
+    FakeBob
+        fakebob.crt
+        fakebob.csr
+        fakebob.key
+    certificate_authority :
+        Intermediate
+            int.crt
+            int.csr
+            int.key
+            Int.srl
+        Root
+            root.crt
+            root.csr
+            root.key
+            root.srl
+    video explanations.tar.xz
+        TASK-1.mp3
+        TASK-2.mp3
+        TASK-3.mp3
+        TASK-4.mp3
+Captures
+    Withloss
+        TASK-2
+            alicetask2.pcap
+            bobtask2.pacp
+        TASK-3
+            alicetask3.pcap
+            wl_bobtask3.pcap
+            wl_trudytask3.pcap
+        TASK-4
+            wl_alicetask4.pcap
+            wl_bobtask4.pcap
+            wl_trudytask4.pcap
+    Withoutloss
+        TASK-2
+            wl_alicetask2.pcap
+            wl_bobtask2.pacp
+        TASK-3
+            w_alicetask3.pcap
+            w_bobtask3.pcap
+            w_trudytask3.pcap
+        TASK-4
+            w_alicetask4.pcap
+            w_bobtask4.pcap
+            w_trudytask4.pcap
+    task2_localhost.pcapng      
+
+TASK -5      
+
