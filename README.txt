@@ -5,10 +5,8 @@ CS23MTECH14010    ROHIT SUTRAVE
 
 TASK 1: How to create keys and certificates
 	STEP 1: Commands given in the report to create the keys, csr's, ceritificates, verification for Root CA, Int CA, Alice, Bob
-                                                                        _________________________________________________
-                                                                       |                                                 |
-                                                                       |  NOTE- Execute these Commands on LOCALMACHINE   |
-                                                                       |_________________________________________________|
+	NOTE- Execute these Commands on LOCALMACHINE
+                                                                       
 
 
 TASK 2: How to execute secure_chat_app_localhost.cpp
@@ -28,13 +26,7 @@ TASK 2: How to execute secure_chat_app_localhost.cpp
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-                                                                        _______________________________________
-                                                                       |                                       |
-                                                                       |  NOTE- Execute these Commands on VM   |
-                                                                       |_______________________________________|
-
+NOTE- Execute these Commands on VM
 TASK 2: How to execute secure_chat_app.cpp
 
 	STEP 1 Open two terminals in the source folder "secure chat
